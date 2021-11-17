@@ -1,4 +1,6 @@
-<img width="1215" alt="codethulu banner" src="https://user-images.githubusercontent.com/45674799/142299653-3b99d02f-b370-4a96-821a-61edc2f581bc.png">
+
+<img width="1215" alt="codethulu banner" src="https://user-images.githubusercontent.com/45674799/142300904-7b56f7a0-4763-4355-9e32-65f6782cb7ad.png">
+
 <h3 align="center">Hi, I'm Brendan (He/Him) 👋</h3>
 <h2 align="center">I'm a software engineer and graphic designer</h2>
 
