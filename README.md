@@ -4,7 +4,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesm2w&show_icons=true&theme=synthwave&locale=en" alt="jamesm2w" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codethulu&show_icons=true&theme=synthwave&locale=en" alt="codethulu" />
 </div>
 
 <h3 align="center">🔗<a href="https://www.codethulu.dev">codethulu.dev</a></h3>
