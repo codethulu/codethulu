@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi, I'm Brendan (He/Him) 👋</h2>
+<h2 align="center">Hi, I'm Brendan</h2>
 
 
 
